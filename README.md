@@ -38,12 +38,12 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-1- add new item: a whitespace (it won't be added)
-2- add new Item: "Cook the dinner"( it is added and persisted)
-3- delete item: "Cook the dinner"( changes persisted)
-4- edit item: "Call grandpa" to "Call grandpa tomorrow"
-5- edit item: "Buy Milk" to " " ( changes won't be made because of whitespace)
-6- restart the phone: see the changes persisted.
+*  add new item: a whitespace (it won't be added)
+*  add new Item: "Cook the dinner"( it is added and persisted)
+*  delete item: "Cook the dinner"( changes persisted)
+*  edit item: "Call grandpa" to "Call grandpa tomorrow"
+*  edit item: "Buy Milk" to " " ( changes won't be made because of whitespace)
+*  restart the phone: see the changes persisted.
 
 ## Project Analysis
 
